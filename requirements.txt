@@ -1,0 +1,30 @@
+# Core ML & Deep Learning
+torch>=2.0.0
+transformers>=4.37.0
+accelerate>=0.20.0
+datasets>=2.0.0
+
+# Classical ML
+scikit-learn>=1.3.0
+
+# Interpretability
+shap
+optuna
+
+# Data & Numerics
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# NLP Utilities
+nltk
+
+# Notebook support
+ipykernel
+tqdm
+
+# Metrics
+torchmetrics
