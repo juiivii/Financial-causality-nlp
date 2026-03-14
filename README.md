@@ -152,7 +152,3 @@ seaborn
 - Kaggle for GPU compute during training
 
 ---
-
-## License
-
-This project is for academic/research purposes. See `LICENSE` for details.
