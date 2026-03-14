@@ -35,14 +35,8 @@ financial-causality-nlp/
 │   ├── PHASE_3.ipynb       # FinBERT multimodal model
 │   ├── PHASE_4.ipynb       # Interpretability analysis
 │   └── PHASE_5.ipynb       # Final pipeline (Colab)
-│
-├── data/                   # Place your datasets here (see Data Setup)
-├── models/                 # Saved model checkpoints (.pkl / .pt)
-├── results/                # Evaluation outputs, plots, reports
-├── assets/                 # Images and figures for documentation
-│
+
 ├── requirements.txt        # Python dependencies
-├── .gitignore
 └── README.md
 ```
 
