@@ -58,7 +58,7 @@ financial-causality-nlp/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/financial-causality-nlp.git
+git clone https://github.com//juiivii/financial-causality-nlp.git
 cd financial-causality-nlp
 ```
 
